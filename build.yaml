@@ -4,6 +4,6 @@ include:
   - board: linkup_left
     shield: linkup_leftsingle
   - board: linkup_right
-    shield: linkup_right
+    shield: linkup_rightsingle
   - board: linkup_x
     shield: linkup_x
