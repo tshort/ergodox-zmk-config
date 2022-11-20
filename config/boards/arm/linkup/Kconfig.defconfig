@@ -1,7 +1,7 @@
 if BOARD_LINKUP_LEFT || BOARD_LINKUP_RIGHT || BOARD_LINKUP_X
 
 config BOARD
-	default "Link-Up Ortho"
+	default "LinkUp"
 
 config BT_CTLR
 	default BT
