@@ -20,7 +20,7 @@
         zephyr,console = &cdc_acm_uart;
 	};
 
-	kscan0 {
+	kscan0: kscan {
 		compatible = "zmk,kscan-gpio-direct";
 		label = "KSCAN";
 	    input-gpios
