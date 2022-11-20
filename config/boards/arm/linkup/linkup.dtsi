@@ -9,8 +9,8 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-	model = "link-up";
-	compatible = "link-up";
+	model = "linkup";
+	compatible = "linkup";
 
 	chosen {
 		zephyr,code-partition = &code_partition;
