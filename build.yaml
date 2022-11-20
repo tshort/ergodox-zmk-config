@@ -6,4 +6,4 @@ include:
   - board: linkup_right
     shield: linkup_rightsingle
   - board: linkup_x
-    shield: linkup_x
+    shield: linkup_xsingle
