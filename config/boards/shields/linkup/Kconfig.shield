@@ -1,14 +1,14 @@
 config SHIELD_LINKUP_DONGLE
-	def_bool $(shields_list_contains,slicemk_linkup_dongle)
+	def_bool $(shields_list_contains,linkup_dongle)
 
 config SHIELD_LINKUP_LEFTCENTRAL
-	def_bool $(shields_list_contains,slicemk_linkup_leftcentral)
+	def_bool $(shields_list_contains,linkup_leftcentral)
 
 config SHIELD_LINKUP_RIGHTCENTRAL
-	def_bool $(shields_list_contains,slicemk_linkup_rightcentral)
+	def_bool $(shields_list_contains,linkup_rightcentral)
 
 config SHIELD_LINKUP_LEFTSINGLE
-	def_bool $(shields_list_contains,slicemk_linkup_leftsingle)
+	def_bool $(shields_list_contains,linkup_leftsingle)
 
 config SHIELD_LINKUP_RIGHTSINGLE
-	def_bool $(shields_list_contains,slicemk_linkup_rightsingle)
+	def_bool $(shields_list_contains,linkup_rightsingle)
