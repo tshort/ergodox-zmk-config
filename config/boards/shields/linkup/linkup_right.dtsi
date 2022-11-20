@@ -1,4 +1,4 @@
-#include "slicemk_ergodox.dtsi"
+#include "linkup.dtsi"
 
 &default_transform {
 	col-offset = <25>;
