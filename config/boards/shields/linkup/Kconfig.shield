@@ -12,3 +12,6 @@ config SHIELD_LINKUP_LEFTSINGLE
 
 config SHIELD_LINKUP_RIGHTSINGLE
 	def_bool $(shields_list_contains,linkup_rightsingle)
+
+config SHIELD_LINKUP_XSINGLE
+	def_bool $(shields_list_contains,linkup_xsingle)
