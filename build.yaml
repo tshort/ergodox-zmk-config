@@ -1,9 +1,9 @@
 include:
   - board: nordic_nrf52840_dongle_slicemk
     shield: linkup_dongle
-  - board: linkup
+  - board: linkup_left
     shield: linkup_left
-  - board: linkup
+  - board: linkup_right
     shield: linkup_right
-  - board: linkup
+  - board: linkup_x
     shield: linkup_x
