@@ -2,8 +2,12 @@ include:
   - board: nordic_nrf52840_dongle_slicemk
     shield: linkup_dongle
   - board: linkup_left
+    shield: linkup_leftcentral
+  - board: linkup_left
     shield: linkup_leftsingle
   - board: linkup_right
     shield: linkup_rightsingle
   - board: linkup_x
+    shield: linkup_xsingle
+  - board: linkup
     shield: linkup_xsingle
