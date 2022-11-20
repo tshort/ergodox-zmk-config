@@ -1,3 +1,9 @@
 include:
-  - board: raytac_mdbt50q_rx
-    shield: slicemk_ergodox_dongle
+  - board: nordic_nrf52840_dongle_slicemk
+    shield: linkup_dongle
+  - board: linkup
+    shield: linkup_left
+  - board: linkup
+    shield: linkup_right
+  - board: linkup
+    shield: linkup_x

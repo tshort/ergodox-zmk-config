@@ -1,0 +1,6 @@
+#include "slicemk_ergodox.dtsi"
+
+&default_transform {
+	col-offset = <25>;
+};
+

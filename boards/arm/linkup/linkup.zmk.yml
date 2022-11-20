@@ -1,0 +1,10 @@
+file_format: "1"
+id: link-up
+name: Link-Up Boards
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - ble
+url: https://github.com/tshort/link-up-boards

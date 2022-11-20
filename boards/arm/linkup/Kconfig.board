@@ -1,0 +1,18 @@
+# Jiran BLE Lite board configuration
+
+# Copyright (c) 2021 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config BOARD_LINKUP_LEFT
+	bool "Link-Up ortho left"
+	depends on SOC_NRF52840_QIAA
+
+config BOARD_LINKUP_RIGHT
+	bool "Link-Up ortho right"
+	depends on SOC_NRF52840_QIAA
+
+config BOARD_LINKUP_X
+	bool "Link-Up ortho X"
+	depends on SOC_NRF52840_QIAA
+
+
