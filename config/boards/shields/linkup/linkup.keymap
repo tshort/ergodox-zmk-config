@@ -20,24 +20,44 @@
 		compatible = "zmk,keymap";
 		layer_0 {
 			bindings = <
-&kp N1   &kp N2   &kp N3   &kp N4   &kp N5  
+&kp N1   &kp N2   &kp N3   &kp N4   &lt 1 N5  
 &kp Q    &kp W    &kp E    &kp R    &kp T   
 &kp A    &kp S    &kp D    &kp F    &kp G   
 &kp Z    &kp X    &kp C    &kp V    &kp B   
 &kp LGUI &kp LALT &kp LCTL &kp LSFT &kp SPACE 
 
-&kp N6    &kp N7    &kp N8   &kp N9   &kp N0   
+&kp N6    &kp N7    &kp N8   &kp N9   &lt 1 N0   
 &kp Y     &kp U     &kp I    &kp O    &kp P    
 &kp H     &kp J     &kp K    &kp L    &kp SCLN 
 &kp N     &kp M     &kp CMMA &kp DOT  &kp FSLH 
-&kp SPACE &kp RSHFT &kp RCTL &kp RALT &kp RGUI   
+&kp SPACE &kp RSHFT &kp RCTL &kp RALT &mo 1   
 
-&kp ESC  &kp TILDE &kp MINUS &kp EQUAL &kp ZM_OUT 
+&kp ESC  &kp TILDE &kp MINUS &kp EQUAL &lt 1 ZM_OUT 
 &kp TAB  &kp LBKT  &kp RBKT  &kp BSLH  &kp ZM_IN
 &kp RET  &kp BACK  &kp FWD   &kp APPS  &kp SQT   
 &kp DEL  &kp HOME  &kp UP    &kp END   &kp PG_UP   
 &kp BSPC &kp LEFT  &kp DOWN  &kp RIGHT &kp PG_DN
 			>;
+		};
+		layer_1 {
+			bindings = <
+&none &none &none &none &none 
+&bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4
+&none &none &none &none &none 
+&bt BT_CLR &out OUT_USB &out OUT_BLE &out OUT_TOG &reset
+&none &none &none &none &none 
+
+&none &none &none &none &none 
+&bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4
+&none &none &none &none &none 
+&bt BT_CLR &out OUT_USB &out OUT_BLE &out OUT_TOG &reset
+&none &none &none &none &none 
+
+&none &none &none &none &none 
+&bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4
+&none &none &none &none &none 
+&bt BT_CLR &out OUT_USB &out OUT_BLE &out OUT_TOG &reset
+&none &none &none &none &none >;
 		};
 	};
 };
