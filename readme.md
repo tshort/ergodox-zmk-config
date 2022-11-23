@@ -49,3 +49,13 @@ Here are some of the common dongleless options:
 - **SliceMK ErgoDox Wireless 202207 Green**
 	- Board `slicemk_ergodox_202207_green_left`
 	- Shield `slicemk_ergodox_leftcentral`
+
+Miscellaneous links:
+
+* https://github.com/krikun98/jorian840
+* https://github.com/aroum/wEnki44
+* https://github.com/dezlidezlidezli/_33ble
+* https://github.com/Ladniy/TK44-info/blob/5786297b9c8141fe6aa5672965d241392336aa63/README.md
+* https://github.com/search?p=2&q=holyiot+18010+zmk&type=Code
+* 
+* https://koen.vervloesem.eu/blog/how-to-upgrade-the-adafruit-nrf52-bootloader/
