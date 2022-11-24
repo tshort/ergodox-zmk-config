@@ -7,11 +7,14 @@ config SHIELD_LINKUP_LEFTCENTRAL
 config SHIELD_LINKUP_RIGHTCENTRAL
 	def_bool $(shields_list_contains,linkup_rightcentral)
 
-config SHIELD_LINKUP_LEFTSINGLE
-	def_bool $(shields_list_contains,linkup_leftsingle)
+config SHIELD_LINKUP_XTRACENTRAL
+	def_bool $(shields_list_contains,linkup_rightcentral)
 
-config SHIELD_LINKUP_RIGHTSINGLE
-	def_bool $(shields_list_contains,linkup_rightsingle)
+config SHIELD_LINKUP_LEFT
+	def_bool $(shields_list_contains,linkup_left)
 
-config SHIELD_LINKUP_XSINGLE
-	def_bool $(shields_list_contains,linkup_xsingle)
+config SHIELD_LINKUP_RIGHT
+	def_bool $(shields_list_contains,linkup_right)
+
+config SHIELD_LINKUP_XTRA
+	def_bool $(shields_list_contains,linkup_xtra)

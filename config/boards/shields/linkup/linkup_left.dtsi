@@ -1,6 +1,6 @@
 #include "linkup.dtsi"
 
 &default_transform {
-	col-offset = <0>;
+	col-offset = <1>;
 };
 

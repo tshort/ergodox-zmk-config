@@ -4,8 +4,8 @@ include:
   - board: linkup
     shield: linkup_leftcentral
   - board: linkup
-    shield: linkup_leftsingle
+    shield: linkup_left
   - board: linkup
-    shield: linkup_rightsingle
+    shield: linkup_right
   - board: linkup
-    shield: linkup_xsingle
+    shield: linkup_xtra
