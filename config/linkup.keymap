@@ -26,13 +26,13 @@
 &kp Q     &kp W     &kp E     &kp R     &kp T   
 &kp A     &kp S     &kp D     &kp F     &kp G   
 &kp Z     &kp X     &kp C     &kp V     &kp B   
-&kp LGUI  &kp LALT  &mt LCTL TAB  &mt LSHFT BSPC  &lt 1 SPACE 
+&kp LGUI  &kp LALT  &mt LCTRL TAB  &mt LSHFT BSPC  &lt 1 SPACE 
 
 &kp N6    &kp N7    &kp N8    &kp N9    &kp N0   
 &kp Y     &kp U     &kp I     &kp O     &kp P    
 &kp H     &kp J     &kp K     &kp L     &kp SCLN 
-&kp N     &kp M     &kp CMMA  &kp DOT   &kp FSLH 
-&kp SPACE &mt RSHFT RET  &kp RCTL  &kp RALT  &mo 1   
+&kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH 
+&kp SPACE &mt RSHFT RET  &kp RCTRL  &kp RALT  &mo 1   
 
 &kp ESC   &kp TILDE &kp MINUS &kp EQUAL &kp ZM_OUT 
 &kp TAB   &kp LBKT  &kp RBKT  &kp BSLH  &kp ZM_IN
