@@ -9,11 +9,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
-#define BACK   C_AC_BACK
-#define FWD    C_AC_FORWARD
-#define ZM_IN  LC(EQUAL)
-#define ZM_OUT LC(MINUS)
-#define APPS   LG(TAB)
 
 / {
 	keymap {
@@ -34,11 +29,11 @@
 &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH 
 &kp SPACE &mt RSHFT RET  &kp RCTRL  &kp RALT  &mo 1   
 
-&kp ESC   &kp TILDE &kp MINUS &kp EQUAL &kp ZM_OUT 
-&kp TAB   &kp LBKT  &kp RBKT  &kp BSLH  &kp ZM_IN
-&kp RET   &kp BACK  &kp FWD   &kp APPS  &kp SQT   
-&kp DEL   &kp HOME  &kp UP    &kp END   &kp PG_UP   
-&kp BSPC  &kp LEFT  &kp DOWN  &kp RIGHT &kp PG_DN
+&kp ESC        &kp TILDE      &kp MINUS        &kp EQUAL      &kp LC(MINUS) 
+&kp TAB        &kp LBKT       &kp RBKT         &kp BSLH       &kp LC(EQUAL)
+&kp RET        &kp C_AC_BACK  &kp C_AC_FORWARD &kp LG(TAB)    &kp SQT   
+&kp DEL        &kp HOME       &kp UP           &kp END        &kp PG_UP   
+&kp BSPC       &kp LEFT       &kp DOWN         &kp RIGHT      &kp PG_DN
 			>;
 		};
 		layer_1 {
