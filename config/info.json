@@ -1,0 +1,69 @@
+{
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        { "label": "Q", "row": 0, "col": 0, "x": 0, "y": 0 },
+
+        { "label": "N1", "row": 0, "col": 1, "x": 1, "y": 0 },
+        { "label": "N2", "row": 0, "col": 2, "x": 2, "y": 0 },
+        { "label": "N3", "row": 0, "col": 3, "x": 3, "y": 0 },
+        { "label": "N4", "row": 0, "col": 4, "x": 4, "y": 0 },
+        { "label": "N5", "row": 0, "col": 5, "x": 5, "y": 0 },
+
+        { "label": "Q", "row": 0, "col": 6, "x": 1, "y": 1 },
+        { "label": "W", "row": 0, "col": 7, "x": 2, "y": 1 },
+        { "label": "E", "row": 0, "col": 8, "x": 3, "y": 1 },
+        { "label": "R", "row": 0, "col": 9, "x": 4, "y": 1 },
+        { "label": "T", "row": 0, "col": 10, "x": 5, "y": 1 },
+
+        { "label": "A", "row": 0, "col": 11, "x": 1, "y": 2 },
+        { "label": "S", "row": 0, "col": 12, "x": 2, "y": 2 },
+        { "label": "D", "row": 0, "col": 13, "x": 3, "y": 2 },
+        { "label": "F", "row": 0, "col": 14, "x": 4, "y": 2 },
+        { "label": "G", "row": 0, "col": 15, "x": 5, "y": 2 },
+
+        { "label": "Z", "row": 0, "col": 16, "x": 1, "y": 3 },
+        { "label": "X", "row": 0, "col": 17, "x": 2, "y": 3 },
+        { "label": "C", "row": 0, "col": 18, "x": 3, "y": 3 },
+        { "label": "V", "row": 0, "col": 19, "x": 4, "y": 3 },
+        { "label": "B", "row": 0, "col": 20, "x": 5, "y": 3 },
+
+        { "label": "N1", "row": 0, "col": 21, "x": 1, "y": 4 },
+        { "label": "N1", "row": 0, "col": 22, "x": 2, "y": 4 },
+        { "label": "N1", "row": 0, "col": 23, "x": 3, "y": 4 },
+        { "label": "N1", "row": 0, "col": 24, "x": 4, "y": 4 },
+        { "label": "N1", "row": 0, "col": 25, "x": 5, "y": 4 },
+
+        { "label": "N6", "row": 0, "col": 26, "x": 1, "y": 6 },
+        { "label": "N7", "row": 0, "col": 27, "x": 2, "y": 6 },
+        { "label": "N8", "row": 0, "col": 28, "x": 3, "y": 6 },
+        { "label": "N9", "row": 0, "col": 29, "x": 4, "y": 6 },
+        { "label": "N10", "row": 0, "col": 30, "x": 5, "y": 6 },
+
+        { "label": "Y", "row": 0, "col": 31, "x": 1, "y": 7 },
+        { "label": "U", "row": 0, "col": 32, "x": 2, "y": 7 },
+        { "label": "I", "row": 0, "col": 33, "x": 3, "y": 7 },
+        { "label": "O", "row": 0, "col": 34, "x": 4, "y": 7 },
+        { "label": "P", "row": 0, "col": 35, "x": 5, "y": 7 },
+
+        { "label": "H", "row": 0, "col": 36, "x": 1, "y": 8 },
+        { "label": "J", "row": 0, "col": 37, "x": 2, "y": 8 },
+        { "label": "K", "row": 0, "col": 38, "x": 3, "y": 8 },
+        { "label": "L", "row": 0, "col": 39, "x": 4, "y": 8 },
+        { "label": ";", "row": 0, "col": 40, "x": 5, "y": 8 },
+      
+        { "label": "N", "row": 0, "col": 41, "x": 1, "y": 9 },
+        { "label": "M", "row": 0, "col": 42, "x": 2, "y": 9 },
+        { "label": ",", "row": 0, "col": 43, "x": 3, "y": 9 },
+        { "label": ".", "row": 0, "col": 44, "x": 4, "y": 9 },
+        { "label": "/", "row": 0, "col": 45, "x": 5, "y": 9 },
+      
+        { "label": "N1", "row": 0, "col": 46, "x": 1, "y": 10 },
+        { "label": "N1", "row": 0, "col": 47, "x": 2, "y": 10 },
+        { "label": "N1", "row": 0, "col": 48, "x": 3, "y": 10 },
+        { "label": "N1", "row": 0, "col": 49, "x": 4, "y": 10 },
+        { "label": "N1", "row": 0, "col": 50, "x": 5, "y": 10 }
+      ]
+    }
+  }
+}
