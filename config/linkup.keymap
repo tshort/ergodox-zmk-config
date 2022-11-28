@@ -46,11 +46,11 @@
 &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4
 &trans    &trans    &trans     &trans    &trans    
 
-&kp ESC   &kp TILDE &kp MINUS  &kp EQUAL &lt 1 ZM_OUT 
-&kp TAB   &kp LBKT  &kp RBKT   &kp BSLH  &kp ZM_IN
-&kp RET   &kp BACK  &kp FWD    &kp APPS  &kp SQT   
-&kp DEL   &kp HOME  &kp UP     &kp END   &kp PG_UP   
-&kp BSPC  &kp LEFT  &kp DOWN   &kp RIGHT &kp PG_DN
+&kp ESC        &kp TILDE      &kp MINUS        &kp EQUAL      &kp LC(MINUS) 
+&kp TAB        &kp LBKT       &kp RBKT         &kp BSLH       &kp LC(EQUAL)
+&kp RET        &kp C_AC_BACK  &kp C_AC_FORWARD &kp LG(TAB)    &kp SQT   
+&kp DEL        &kp HOME       &kp UP           &kp END        &kp PG_UP   
+&kp BSPC       &kp LEFT       &kp DOWN         &kp RIGHT      &kp PG_DN
 
 &none     &none     &none      &none     &none 
 &none     &none     &none      &none     &none 
