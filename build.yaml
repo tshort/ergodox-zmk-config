@@ -1,6 +1,8 @@
 include:
   - board: raytac_mdbt50q_rx
     shield: linkup_dongle
+  - board: raytac_mdbt50q_rx
+    shield: settings_reset
   - board: linkup
     shield: linkup_leftcentral
   - board: linkup
