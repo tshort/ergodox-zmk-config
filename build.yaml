@@ -9,3 +9,5 @@ include:
     shield: linkup_right
   - board: linkup
     shield: linkup_xtra
+  - board: linkup
+    shield: linkup_test
